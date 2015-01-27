@@ -3,13 +3,12 @@
 ## Jan. 27/15
 ### Log 2: Think Piece
 
-<p> Richard Wright's i*Native Son* <p/>
+<p> I wish to conduct a study of affect in Richard Wright’s infamous protest novel, *Native Son* (1940).  Wright has been criticized for years as the main character, 20-year-old African American Bigger Thomas, living in Chicago’s South Side in the 1930s, shows little remorse for his violent actions.  Wright’s unapologetic portrayal of Bigger sheds light upon the systematic inevitability behind the crimes committed throughout the novel.  Likewise, Wright, though the narrative voice, makes no effort to apologize for Bigger’s crimes, but instead sheds light upon the systematic inevitability behind them.  Although Bigger’s crimes provide the action for the narrative, the real story rests in the way Bigger responds to environmental influences.  Bigger’s inability to identify the social conditions imposed upon African Americans by the dominant white society which have led to his demise reflects his emotional stiltedness.  Even at the end of the novel, Bigger is unable to explain the circumstances he was placed in which led to his demise – instead, a lawyer speaks on his behalf.  I wish to illustrate how this inability to articulate one’s emotions is prevalent throughout the entire piece through the combination and conflation of emotions, as Bigger identifies them.To accomplish this goal, I will produce a force directed graph, a type of network visualization.  Using identified emotions within the text as my dataset, this type of visualization will present the interconnectedness of emotions and signify which relationships are strongest based on thickness of connecting line.  Additionally, within this model, springs and charged particles will enable the more closely related emotions to appear in closer together than those that lack association in the text.  As Posner recommends, in order to produce this feature, I will need to familiarize myself with the D3.js, a JavaScript library used to create digital visualizations, and Python, a programming language used to manipulate data.  I will produce my own dataset by manually tracking and recording instances of affect within the novel. A larger project, which I hope to complete, would be to incorporate the visualization into a longform, media-rich narrative; my argument would be ideally communicated through the presentation of the visual aid alongside text.  Since my research aims to show the interconnectedness and interdependence of the various emotions, as Bigger understands them, the employment of a network visualization is most appropriate.  Not only will the network make visible and therefore more easily digestible the argument I present, but it will also help me to realize varying strengths of relationships between emotions.  For example, I predict to find more frequent connections between “fear” and “anger” than between “shame” and “power,” which should provide insight into the characterization of Bigger Thomas.  <p/>
 
-<p>Second paragraph.<p/>
 
-->Bibliography<-
+**Bibliography**
 
-Wright, Richard. Native Son. New York: Perennial Classics, 1998. Print.
+Wright, Richard. *Native Son*. New York: Perennial Classics, 1998. Print.
 
 ## Jan. 20/15
 ### Log 1: After Hermes?
