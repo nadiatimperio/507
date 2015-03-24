@@ -1,5 +1,10 @@
 # Nadia Timperio's Log for English 507 
 
+##Mar. 24/15
+### Log 8: Panel Abstract
+
+**Panel Title:** Quantifying the Qualitative: Examining Relationships in Literary Texts**Abstract:** How do we, as literary scholars, quantify relationships - which are inherently qualitative - in a text?  This question drives the research of all three projects comprising this panel: a social network analysis of Jane Austen’s novels, *Mansfield Park* and *Emma*; visualizing character co-occurrence in Mary Russell Mitford’s *Our Village*; and an algorithmic reading of Richard Wright’s *Native Son*.  This panel will discuss the parameters, methods, and limitations of such research.  Ultimately, we posit that leveraging computational methods to guide innovative literary analysis renders this work instrumental scholarship (i.e. work that replicable, referenceable, and extensible).**Panelists:** Adam J. Kneeland, Lindsey Seatter, and Nadia Timperio
+
 ##Mar. 17/15
 ### Log 7: Working Prototype
 
